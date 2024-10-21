@@ -1,7 +1,7 @@
 {
     "traffic_street_lights": [
         {
-            "prop_streetlight_01": "https://api.github.com/repos/SirhcMods/blendv_api/contents/library/Traffic_Street_Lights/assets/prop_streetlight_01.png?ref=main"
+            "prop_streetlight_01": "https://api.github.com/repos/SirhcMods/blendv_api/contents/library/Traffic_Street_Lights/assets/prop_streetlight_01.png"
         }
     ]
 }
