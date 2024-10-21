@@ -1,8 +1,8 @@
 {
     "api": [
         {
-            "init_file": "https://raw.githubusercontent.com/SirhcMods/blendv_api/refs/heads/main/__init__.py",
-            "asset_previews": "https://raw.githubusercontent.com/SirhcMods/blendv_api/refs/heads/main/asset_previews.json"
+            "init_file": "https://api.github.com/repos/SirhcMods/blendv_api/contents/__init__.py?refs=main",
+            "asset_previews": "https://api.github.com/repos/SirhcMods/blendv_api/contents/asset_previews.json?refs=main"
         }
     ]
 }
